@@ -1,10 +1,10 @@
 
-import SimpleTodo from './Tests/01/01_SimpleTodo';
+import ImageShow from './Tests/02/02_ImageShowWithThumbnail';
 function App() {
 
   return (
     <>
-      <SimpleTodo/>
+      <ImageShow/>
     </>
   )
 }
